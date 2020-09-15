@@ -40,6 +40,8 @@ Such is the whole fruit of a developer’s labor, kernel and all.
 
 The **ONE = MOR framework** was created to help software developers communicate better in writing. Below you'll find us going through the framework, explaining how we see it applied to software contributions. We believe that even if you take the time to read this just once, it will greatly help you write better contributions.
 
+![photo_2020-09-15 14 14 49](https://user-images.githubusercontent.com/1032474/93248597-0e78b680-f75e-11ea-842f-823820ccac03.jpeg)
+
 ### (1) ORGANIZE information to fit your goals and readers (the result is your _blueprint_)
 - **Mob** - know your readers
     - _What drives the Developer reading your PR?_ The reader of your PR is a software developer, just like you. They have probably put in hundreds or thousands of hours of their life into this project, that makes no money, or very little money. Most likely they are busy, have full-time jobs, spouses, children, pets. But, _just like you_, they have _a passion for building stuff_, and they love that _their work actually helps people_. That's why they started this. That's why they keep doing it.
