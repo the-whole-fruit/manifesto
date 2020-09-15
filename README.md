@@ -1,6 +1,6 @@
 <p align="left">
     <a href="https://github.com/the-whole-fruit/manifesto/blob/master/LICENSE.md">
-        <img src="https://img.shields.io/badge/license-MIT-green" alt="Contributors" /></a>
+        <img src="https://img.shields.io/badge/license-MIT-brightgreen" alt="Contributors" /></a>
     <a href="https://github.com/the-whole-fruit/manifesto/releases">
         <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/the-whole-fruit/manifesto"></a>
     <a href="https://github.com/the-whole-fruit/manifesto/contributors">
@@ -15,7 +15,7 @@
         <img alt="Twitter URL" src="https://img.shields.io/twitter/url?url=http%3A%2F%2Ftwitter.com%2Fwritingfordevs"></a>
 </p>
 
-# The Whole Fruit Manifesto
+# The Whole Fruit Manifesto 
 
 We believe that “writing good code” is not only about “writing good code”. Sure, the code is the kernel. But around it, or about it, the software developer has to write a lot of words. 
 
@@ -29,14 +29,10 @@ We believe that good code can be made bad by improper use of words around it. Th
 
 Such is the whole fruit of a developer’s labor, kernel and all.
 
-[sign the manifesto button] 
-
------------------------------
+<a href="https://github.com/the-whole-fruit/manifesto/blob/master/SIGNATORIES.md"><img alt="Sign Manifesto" src="https://img.shields.io/badge/manifesto-sign%20now-brightgreen"></a>
 
 
-### One small link to add to your contributing.md file, one giant leap in software quality for your project. 
-
-If you adhere to The Whole Fruit Manifesto, please consider adding a link to the following principles to help your contributors produce better code. Remember, this file gets improved all the time with examples and best practices.
+> **One small link to add to your contributing.md file, one giant leap in software quality for your project.** If you adhere to The Whole Fruit Manifesto, please consider adding a link to the following principles to help your contributors produce better code. Remember, this file gets improved all the time with examples and best practices.
 
 
 ## Rules for writing effectively (ONE = MOR framework)
@@ -84,3 +80,52 @@ The **ONE = MOR framework** was created to help software developers communicate 
 - Read once for sense and structure
 - Read once to make sure it sounds good
 - Read once for grammar
+
+
+## How to adopt
+
+#### Add a section to your CONTRIBUTING.md
+
+One small block of text to add to your contributing.md file, one giant leap in software quality for your project.
+
+As you know, this file is used by Github, Bitbucket and Gitlab to show your users a few guidelines before they submit a PR. We think it's a perfect place to introduce your contributors to the way you'd like your community to write. If you adhere to The Whole Fruit Manifesto, please consider copy-pasting or linking its guidelines to help your contributors produce better code. Here's [an example `CONTRIBUTING.md` file](https://github.com/the-whole-fruit/manifesto/blob/master/.github/CONTRIBUTING.md), that we think is a good start.
+
+
+#### Include a shield in your project
+
+Shields (aka badges) usually let people know about your project status, standards and permissions. We think it's a perfect place to also communicate that your project intends to abide by The Whole Fruit Manifesto. That people should read its text and follow its guidelines. 
+
+You can add the shield below at the top of your README.md using one of the code options under it. 
+
+[![We believe writing good code is not only about writing good code. It’s also about the words around it. We aims to deliver both: code and words.](https://img.shields.io/badge/writing%20standard-the%20whole%20fruit-brightgreen)](https://github.com/the-whole-fruit/manifesto)
+
+```js
+[![We believe writing good code is not only about writing good code. It’s also about the words around it. We aims to deliver both: code and words.](https://img.shields.io/badge/writing%20standard-the%20whole%20fruit-brightgreen)](https://github.com/the-whole-fruit/manifesto)
+
+// or
+
+[<img src="https://img.shields.io/badge/writing%20standard-the%20whole%20fruit-brightgreen" title="We believe writing good code is not only about writing good code. It’s also about the words around it. We aims to deliver both: code and words.">](https://github.com/the-whole-fruit/manifesto)
+```
+
+Alternatively, you can use [shields.io](https://shields.io) to make a shield that's a better fit for your project. Make sure you point it to `https://github.com/the-whole-fruit/manifesto`
+
+#### Sign the manifesto
+
+If you're the owner of an open-source project or organisation, you can add your name to our SIGNATORIES.md file. This will:
+- help you _publicly_ commit to follow The Whole Fruit Manifesto and its guidelines in your software projects;
+- help other people understand the importance of our cause - that _better writing makes for better software_;
+
+<a href="https://github.com/the-whole-fruit/manifesto/blob/master/SIGNATORIES.md"><img alt="Sign Manifesto" src="https://img.shields.io/badge/manifesto-sign%20now-brightgreen"></a>
+
+
+## How to contribute
+
+See our `CONTRIBUTING.md`, of course.
+
+## About
+
+This project is the result of many years of added frustration. Time and time again we've seen _great_ projects & developers, who limit their success because of their poor communication. So much so, that it's something we are compelled to do - promote the importance of good writing in web development.
+
+## License
+
+The MIT License (MIT). Please see our [License File](https://github.com/the-whole-fruit/manifesto/blob/master/LICENSE.md) for more information.
