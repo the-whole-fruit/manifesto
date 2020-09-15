@@ -1,3 +1,20 @@
+<p align="left">
+    <a href="https://github.com/the-whole-fruit/manifesto/blob/master/LICENSE.md">
+        <img src="https://img.shields.io/badge/license-MIT-green" alt="Contributors" /></a>
+    <a href="https://github.com/the-whole-fruit/manifesto/releases">
+        <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/the-whole-fruit/manifesto"></a>
+    <a href="https://github.com/the-whole-fruit/manifesto/contributors">
+        <img src="https://img.shields.io/github/contributors/the-whole-fruit/manifesto" alt="Contributors" /></a>
+    <a href="https://github.com/the-whole-fruit/manifesto">
+        <img alt="GitHub stars" src="https://img.shields.io/github/stars/the-whole-fruit/manifesto"></a>
+    <a href="https://github.com/the-whole-fruit/manifesto">
+        <img src="https://img.shields.io/badge/writing%20standard-the%20whole%20fruit-brightgreen"
+            alt="We believe writing good code is not only about writing good code. It’s also about the words around it. We aims to deliver both: code and words."> 
+    </a>
+    <a href="https://twitter.com/intent/follow?screen_name=writingfordevs">
+        <img alt="Twitter URL" src="https://img.shields.io/twitter/url?url=http%3A%2F%2Ftwitter.com%2Fwritingfordevs"></a>
+</p>
+
 # The Whole Fruit Manifesto
 
 We believe that “writing good code” is not only about “writing good code”. Sure, the code is the kernel. But around it, or about it, the software developer has to write a lot of words. 
@@ -23,11 +40,12 @@ one giant leap in software quality for your project.
 If you adhere to The Whole Fruit Manifesto, please consider adding a link to the following principles to help your contributors produce better code. This file gets improved all the time with examples and best practices.
 
 
-# Rules for writing effectively (ONE = MOR framework)
+## Rules for writing effectively (ONE = MOR framework)
+
 
 The **ONE = MOR framework** was created to help software developers communicate better in writing. Below you'll find us going through the framework, explaining how we see it applied to software contributions. We believe that even if you take the time to read this just once, it will greatly help you write better contributions.
 
-#### (1) ORGANIZE information to fit your goals and readers (the result is your _blueprint_)
+### (1) ORGANIZE information to fit your goals and readers (the result is your _blueprint_)
 - **Mob** - know your readers
     - _What drives the Developer reading your PR?_ The reader of your PR is a software developer, just like you. They have probably put in hundreds or thousands of hours of their life into this project, that makes no money, or very little money. Most likely they are busy, have full-time jobs, spouses, children, pets. But, _just like you_, they have _a passion for building stuff_, and they love that _their work actually helps people_. That's why they started this. That's why they keep doing it.
 - **Mission** - determine your objectives
@@ -57,13 +75,13 @@ The **ONE = MOR framework** was created to help software developers communicate 
     - If there’s no Issue template, here’s [a good structure for a Bug Report](https://github.com/the-whole-fruit/manifesto/blob/master/examples/ISSUE_TEMPLATE/bug_report.md)
     - If there’s no PR template, here’s [a good structure for a PR description](https://github.com/the-whole-fruit/manifesto/blob/master/examples/ISSUE_TEMPLATE/pull_request.md)
 
-#### (2) NOTE everything down following the blueprint (the result is your _unpolished text_)
+### (2) NOTE everything down following the blueprint (the result is your _unpolished text_)
 - Only clear Subjects
 - Only clear Actions
 - Only the right Style
 - Only the right Length
 
-#### (3) EDIT it to make sure it does what it needs to do (the result is your _final text_)
+### (3) EDIT it to make sure it does what it needs to do (the result is your _final text_)
 - Read once for sense and structure
 - Read once to make sure it sounds good
 - Read once for grammar
