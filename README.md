@@ -1,12 +1,12 @@
 <p align="left">
     <a href="https://github.com/the-whole-fruit/manifesto/blob/master/LICENSE.md">
-        <img alt="Contributors" src="https://img.shields.io/badge/license-MIT-brightgreen" /></a>
+        <img src="https://img.shields.io/badge/license-MIT-green" alt="Contributors" /></a>
     <a href="https://github.com/the-whole-fruit/manifesto/releases">
-        <img alt="Latest Release" src="https://img.shields.io/github/v/release/the-whole-fruit/manifesto"></a>
+        <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/the-whole-fruit/manifesto"></a>
     <a href="https://github.com/the-whole-fruit/manifesto/contributors">
         <img src="https://img.shields.io/github/contributors/the-whole-fruit/manifesto" alt="Contributors" /></a>
     <a href="https://github.com/the-whole-fruit/manifesto">
-        <img alt="GitHub Stars" src="https://img.shields.io/github/stars/the-whole-fruit/manifesto"></a>
+        <img alt="GitHub stars" src="https://img.shields.io/github/stars/the-whole-fruit/manifesto"></a>
     <a href="https://github.com/the-whole-fruit/manifesto">
         <img src="https://img.shields.io/badge/writing%20standard-the%20whole%20fruit-brightgreen"
             alt="We believe writing good code is not only about writing good code. It’s also about the words around it. We aims to deliver both: code and words."> 
@@ -34,10 +34,9 @@ Such is the whole fruit of a developer’s labor, kernel and all.
 -----------------------------
 
 
-One small link to add to your contributing.md file, 
-one giant leap in software quality for your project. 
+### One small link to add to your contributing.md file, one giant leap in software quality for your project. 
 
-If you adhere to The Whole Fruit Manifesto, please consider adding a link to the following principles to help your contributors produce better code. This file gets improved all the time with examples and best practices.
+If you adhere to The Whole Fruit Manifesto, please consider adding a link to the following principles to help your contributors produce better code. Remember, this file gets improved all the time with examples and best practices.
 
 
 ## Rules for writing effectively (ONE = MOR framework)
