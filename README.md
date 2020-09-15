@@ -17,7 +17,7 @@
 
 # The Whole Fruit Manifesto
 
-We believe that “writing good code” is not only about “writing good code”. Sure, the code is the kernel. But around it, or about it, the software developer has to write a lot of words.
+We believe that “writing good code” is not only about “writing good code”. Sure, the code is the kernel. But around it, or about it, the software developer has to write a lot of words. 
 
 - Technical Documentation
 - Code Comments
@@ -29,7 +29,19 @@ We believe that good code can be made bad by improper use of words around it. Th
 
 Such is the whole fruit of a developer’s labor, kernel and all.
 
+[sign the manifesto button] 
+
+-----------------------------
+
+
+One small link to add to your contributing.md file, 
+one giant leap in software quality for your project. 
+
+If you adhere to The Whole Fruit Manifesto, please consider adding a link to the following principles to help your contributors produce better code. This file gets improved all the time with examples and best practices.
+
+
 ## Rules for writing effectively (ONE = MOR framework)
+
 
 The **ONE = MOR framework** was created to help software developers communicate better in writing. Below you'll find us going through the framework, explaining how we see it applied to software contributions. We believe that even if you take the time to read this just once, it will greatly help you write better contributions.
 
