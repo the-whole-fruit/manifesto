@@ -71,8 +71,8 @@ The **ONE = MOR framework** was created to help software developers communicate 
     - One or two emojis or GIFs can easily lighten the mood.
 - **Mould** - Decide the structure that will carry your message home
     - The Issue or PR you’re opening should already include some text and headlines, to make sure your message is well structured. Try to answer all existing headlines. If needed, add new headlines, but don’t delete the existing ones, they’re there for a reason.
-    - If there’s no Issue template, here’s [a good structure for a Bug Report](https://github.com/the-whole-fruit/manifesto/blob/master/examples/ISSUE_TEMPLATE/bug_report.md)
-    - If there’s no PR template, here’s [a good structure for a PR description](https://github.com/the-whole-fruit/manifesto/blob/master/examples/ISSUE_TEMPLATE/pull_request.md)
+    - If there’s no Issue template, here’s [a good structure for a Bug Report](https://github.com/the-whole-fruit/manifesto/blob/master/.github/ISSUE_TEMPLATE/bug_report.md)
+    - If there’s no PR template, here’s [a good structure for a PR description](https://github.com/the-whole-fruit/manifesto/blob/master/.github/ISSUE_TEMPLATE/pull_request.md)
 
 ### (2) NOTE everything down following the blueprint (the result is your _unpolished text_)
 - Only clear Subjects
