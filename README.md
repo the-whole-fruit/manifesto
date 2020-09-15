@@ -1,12 +1,12 @@
 <p align="left">
     <a href="https://github.com/the-whole-fruit/manifesto/blob/master/LICENSE.md">
-        <img src="https://img.shields.io/badge/license-MIT-green" alt="Contributors" /></a>
+        <img alt="Contributors" src="https://img.shields.io/badge/license-MIT-brightgreen" /></a>
     <a href="https://github.com/the-whole-fruit/manifesto/releases">
-        <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/the-whole-fruit/manifesto"></a>
+        <img alt="Latest Release" src="https://img.shields.io/github/v/release/the-whole-fruit/manifesto"></a>
     <a href="https://github.com/the-whole-fruit/manifesto/contributors">
         <img src="https://img.shields.io/github/contributors/the-whole-fruit/manifesto" alt="Contributors" /></a>
     <a href="https://github.com/the-whole-fruit/manifesto">
-        <img alt="GitHub stars" src="https://img.shields.io/github/stars/the-whole-fruit/manifesto"></a>
+        <img alt="GitHub Stars" src="https://img.shields.io/github/stars/the-whole-fruit/manifesto"></a>
     <a href="https://github.com/the-whole-fruit/manifesto">
         <img src="https://img.shields.io/badge/writing%20standard-the%20whole%20fruit-brightgreen"
             alt="We believe writing good code is not only about writing good code. It’s also about the words around it. We aims to deliver both: code and words."> 
