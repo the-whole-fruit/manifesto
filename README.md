@@ -37,27 +37,27 @@ Such is the whole fruit of a developer’s labor, kernel and all.
 
 ## Guidelines for Writing Effectively
 
+The **ONE = MOR framework** was created to help software developers communicate better in writing. So feel free to link to this section in your Contributing.md. 
 
-The **ONE = MOR framework** was created to help software developers communicate better in writing. Below you'll find us going through the framework, explaining how we see it applied to software contributions. We believe that even if you take the time to read this just once, it will greatly help you write better contributions.
+We believe that reading this section just once will result in better contributions and better communication for your team of developers.
 
 ![photo_2020-09-15 14 14 49](https://user-images.githubusercontent.com/1032474/93248597-0e78b680-f75e-11ea-842f-823820ccac03.jpeg)
 
 ### (1) ORGANIZE information to fit your goals and readers (the result is your _blueprint_)
 - **Mob** - know your readers
-    - _What drives the Developer reading your PR?_ The reader of your PR is a software developer, just like you. They have probably put in hundreds or thousands of hours of their life into this project, that makes no money, or very little money. Most likely they are busy, have full-time jobs, spouses, children, pets. But, _just like you_, they have _a passion for building stuff_, and they love that _their work actually helps people_. That's why they started this. That's why they keep doing it.
+    - The readers of your PR are software developers, just like you. What compels them to read your PR? If you’re contributing to an open source project, they’ve probably put in hundreds or thousands of hours of their life into a project that makes no money, or very little money. Most likely they are busy, have full-time jobs, spouses, children, pets. But, just like you, they have a passion for building stuff, and they love that their work actually helps people. If you're contributing to your company’s project, then the developer who reviews the PR has to do it because it’s her job. Either way, you want to make their life as easy as possible and the task as pleasant as possible. Don’t treat them like they don’t have a choice but to review your code. Because, _just like you_, they have _a passion for building stuff_, and they love that _their work actually helps people_. That's why they started this. That's why they keep doing it.
 - **Mission** - determine your objectives
-    - To get your PR approved.
-    - To make it as fast as possible for your fix/feature merged.
+    - To get your PR approved. From the first try, if possible.
     - To lend a helping hand to someone who’s already helped you, by creating and maintaining this project.
 - **Message** - find what will make your readers act for your mission
     - In order for the maintainers to merge your PR, they’ll need to:
         - Easily understand what problem you’re fixing.
         - Agree that the problem is worth fixing.
-        - Easily merge your work into theirs.
-    - Most of the time, the that means your message should be
-        - Code that is easy to read and easy to understand.
-        - Code that works and is well-tested.
-        - Code that is well commented.
+        - Easily merge your work into the existing code base.
+    - Most of the time, the message that should come across is that:
+        - Your code contributes something important.
+        - Your code is easy to read and well-commented.
+        - Your code works and is well-tested.
         - PR title that defines the problem being fixed.
         - PR description that explaines how the problem is being fixed.
 - **Medium** - select the best communication channel to use
@@ -66,11 +66,12 @@ The **ONE = MOR framework** was created to help software developers communicate 
 - **Mood** - think about the tone that will make your message more convincing
     - Try to be informal, but not impolite. You’re talking to a colleague.
     - Jokes are welcome and appreciated. Especially good ones.
-    - One or two emojis or GIFs can easily lighten the mood.
+    - But most importantly, be direct. You are improving something specific.
+    - Bonus tip: One or two emojis or GIFs can easily lighten the mood.
 - **Mould** - Decide the structure that will carry your message home
     - The Issue or PR you’re opening should already include some text and headlines, to make sure your message is well structured. Try to answer all existing headlines. If needed, add new headlines, but don’t delete the existing ones, they’re there for a reason.
-    - If there’s no Issue template, here’s [a good structure for a Bug Report](https://github.com/the-whole-fruit/manifesto/blob/master/.github/ISSUE_TEMPLATE/bug_report.md)
-    - If there’s no PR template, here’s [a good structure for a PR description](https://github.com/the-whole-fruit/manifesto/blob/master/.github/ISSUE_TEMPLATE/pull_request.md)
+    - If there’s no Issue template, here’s [a good structure for a Bug Report](https://github.com/the-whole-fruit/manifesto/blob/master/.github/ISSUE_TEMPLATE/bug_report.md).
+    - If there’s no PR template, here’s [a good structure for a PR description](https://github.com/the-whole-fruit/manifesto/blob/master/.github/ISSUE_TEMPLATE/pull_request.md).
 
 ### (2) NOTE everything down following the blueprint (the result is your _unpolished text_)
 - Only clear Subjects
