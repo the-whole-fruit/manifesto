@@ -43,7 +43,7 @@ We believe that reading this section just once will result in better contributio
 
 ![photo_2020-09-15 14 14 49](https://user-images.githubusercontent.com/1032474/93248597-0e78b680-f75e-11ea-842f-823820ccac03.jpeg)
 
-### (1) ORGANIZE information to fit your goals and readers (the result is your _blueprint_)
+### Step 1. ORGANIZE the information to fit your goals and readers (the result is your _blueprint_)
 - **Mob** - know your readers
     - The readers of your PR are software developers, just like you. What compels them to read your PR? If you’re contributing to an open source project, they’ve probably put in hundreds or thousands of hours of their life into a project that makes no money, or very little money. Most likely they are busy, have full-time jobs, spouses, children, pets. But, just like you, they have a passion for building stuff, and they love that their work actually helps people. If you're contributing to your company’s project, then the developer who reviews the PR has to do it because it’s her job. Either way, you want to make their life as easy as possible and the task as pleasant as possible. Don’t treat them like they don’t have a choice but to review your code. Because, _just like you_, they have _a passion for building stuff_, and they love that _their work actually helps people_. That's why they started this. That's why they keep doing it.
 - **Mission** - determine your objectives
@@ -73,13 +73,13 @@ We believe that reading this section just once will result in better contributio
     - If there’s no Issue template, here’s [a good structure for a Bug Report](https://github.com/the-whole-fruit/manifesto/blob/master/.github/ISSUE_TEMPLATE/bug_report.md).
     - If there’s no PR template, here’s [a good structure for a PR description](https://github.com/the-whole-fruit/manifesto/blob/master/.github/ISSUE_TEMPLATE/pull_request.md).
 
-### (2) NOTE everything down following the blueprint (the result is your _unpolished text_)
+### Step 2. NOTE everything down following the blueprint (the result is your _unpolished text_)
 - Only clear Subjects
 - Only clear Actions
 - Only the right Style
 - Only the right Length
 
-### (3) EDIT it to make sure it does what it needs to do (the result is your _final text_)
+### Step 3. EDIT it to make sure it does what it needs to do (the result is your _final text_)
 - Read once for sense and structure
 - Read once to make sure it sounds good
 - Read once for grammar
@@ -88,14 +88,14 @@ We believe that reading this section just once will result in better contributio
 
 ## How to Adopt
 
-#### Add a section to your CONTRIBUTING.md
+#### (I) Add a section to your CONTRIBUTING.md
 
 One small block of text to add to your contributing.md file, one giant leap in software quality for your project.
 
 As you know, this file is used by Github, Bitbucket and Gitlab to show your users a few guidelines before they submit a PR. We think it's a perfect place to introduce your contributors to the way you'd like your community to write. If you adhere to The Whole Fruit Manifesto, please consider copy-pasting or linking its guidelines to help your contributors produce better code. Here's [an example `CONTRIBUTING.md` file](https://github.com/the-whole-fruit/manifesto/blob/master/.github/CONTRIBUTING.md), that we think is a good start.
 
 
-#### Include a shield in your project
+#### (II) Include a shield in your project
 
 Shields (aka badges) usually let people know about your project status, standards and permissions. We think it's a perfect place to also communicate that your project intends to abide by The Whole Fruit Manifesto. That people should read its text and follow its guidelines. 
 
@@ -113,7 +113,7 @@ You can add the shield below at the top of your README.md using one of the code 
 
 Alternatively, you can use [shields.io](https://shields.io) to make a shield that's a better fit for your project. Make sure you point it to `https://github.com/the-whole-fruit/manifesto`
 
-#### Sign the manifesto
+#### (III) Sign the manifesto
 
 If you're the owner of an open-source project or organisation, you can add your name to our SIGNATORIES.md file. This will:
 - help you _publicly_ commit to follow The Whole Fruit Manifesto and its guidelines in your software projects;
@@ -125,13 +125,19 @@ If you're the owner of an open-source project or organisation, you can add your 
 
 ## How to Contribute
 
-See our `CONTRIBUTING.md`, of course.
+See our [`CONTRIBUTING.md`](https://github.com/the-whole-fruit/manifesto/blob/master/CONTRIBUTING.md), of course.
 
 <br>
 
 ## About
 
-This project is the result of many years of added frustration. Time and time again we've seen _great_ projects & developers, who limit their success because of their poor communication. So much so, that it's something we are compelled to do - promote the importance of good writing in web development.
+**Why?** This project is the result of many years of added frustration. Time and time again we've seen _great_ ideas, projects & developers who, due to poor communication, either put a ceiling on their success or turn a wonderful experience into a frustrating one. We've grown so frustrated with this, that we felt compelled to do something about it. We felt the urge to actually promote _the importance of good writing_ in web development.
+
+**Who are we?** A [software developer](https://tabacitu.ro) and [a copywriter](https://ro.linkedin.com/in/andreiiordache). This is an unlikely alliance, we know. But it's probably the best mix for starting a project like this.
+
+**What's the plan?** Ideally, to start a movement that spreads the word, little by little, that _words matter_ and that _it's not at all difficult_ to learn how to get decent at writing (definitely not more difficult than learning a new programming language). We want to see fewer and fewer projects that are _hurt_ by their communication. And long-term, we want to completely eliminate the stereotype that developers are bad at communication. In fact, we belive it could become the exact opposite!
+
+**What's the catch?** No catch, really - we're doing this because we believe it needs to be done. In the spirit of full disclosure, though, we are [writing a book](https://writingfordevs.com) on this topic. A half-a-page `contributing.md` section can get you from _bad_ to _decent_. A book can probably take you from _decent_ to _good_. The book is mostly written - we've tried to cram all our writing experience inside it. But it's still a long way from launching, because now we want _other developers_ to tell us what _they've learnt_ makes better writing in software. We're not sure what form this feedback will take, but if this is a problem you've had to fix yourself, and feel you have something to say about this, please reach out to us at <a href="mailto:contact@writingfordevs.com">contact@writingfordevs.com</a>. We might even start an interview series, a podcast, something like that, where we try to learn as much as possible from others, and share that information with everyone.
 
 <br>
 
