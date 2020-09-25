@@ -31,15 +31,7 @@ Such is the whole fruit of a developer’s labor, kernel and all.
 
 <a href="#how-to-adopt"><img alt="Adopt the Manifesto" src="https://img.shields.io/badge/-adopt%20the%20manifesto-brightgreen"></a>
 
-<br>
-
-**Table of contents:**
-
-- [Guidelines for Writing Effectively](#guidelines-for-writing-effectively)
-- [How to Adopt](#how-to-adopt)
-- [How to Contribute](#how-to-contribute)
-- [About](#about)
-- [License](#license)
+[Guidelines for Writing Effectively](#guidelines-for-writing-effectively) | [How to Adopt](#how-to-adopt) | [How to Contribute](#how-to-contribute) | [About](#about) | [License](#license)
 
 <br>
 
@@ -91,6 +83,7 @@ The **ONE = MOR framework** was created to help software developers communicate 
 - Read once to make sure it sounds good
 - Read once for grammar
 
+<br>
 
 ## How to Adopt
 
@@ -127,14 +120,19 @@ If you're the owner of an open-source project or organisation, you can add your 
 
 <a href="https://github.com/the-whole-fruit/manifesto/blob/master/SIGNATORIES.md"><img alt="Sign Manifesto" src="https://img.shields.io/badge/manifesto-sign%20now-brightgreen"></a>
 
+<br>
 
 ## How to Contribute
 
 See our `CONTRIBUTING.md`, of course.
 
+<br>
+
 ## About
 
 This project is the result of many years of added frustration. Time and time again we've seen _great_ projects & developers, who limit their success because of their poor communication. So much so, that it's something we are compelled to do - promote the importance of good writing in web development.
+
+<br>
 
 ## License
 
