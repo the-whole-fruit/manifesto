@@ -37,9 +37,9 @@ Such is the whole fruit of a developer’s labor, kernel and all.
 
 ## Guidelines for Writing Effectively
 
-The **ONE = MOR framework** was created to help software developers communicate better in writing. So feel free to link to this section in your Contributing.md. 
+The **ONE = MOR framework** was created to help software developers communicate better in writing. So feel free to link to this section in your `Contributing.md`. 
 
-We believe that reading this section just once will result in better contributions and better communication for your team of developers.
+We believe that even reading this section _just once_ will result in better contributions and better communication.
 
 ![photo_2020-09-15 14 14 49](https://user-images.githubusercontent.com/1032474/93248597-0e78b680-f75e-11ea-842f-823820ccac03.jpeg)
 
