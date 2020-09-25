@@ -29,13 +29,21 @@ We believe that good code can be made bad by improper use of words around it. Th
 
 Such is the whole fruit of a developer’s labor, kernel and all.
 
-<a href="https://github.com/the-whole-fruit/manifesto/blob/master/SIGNATORIES.md"><img alt="Sign Manifesto" src="https://img.shields.io/badge/manifesto-sign%20now-brightgreen"></a>
+<a href="#how-to-adopt"><img alt="Adopt the Manifesto" src="https://img.shields.io/badge/-adopt%20the%20manifesto-brightgreen"></a>
 
+<br>
 
-> **One small link to add to your contributing.md file, one giant leap in software quality for your project.** If you adhere to The Whole Fruit Manifesto, please consider adding a link to the following principles to help your contributors produce better code. Remember, this file gets improved all the time with examples and best practices.
+**Table of contents:**
 
+- [Guidelines for Writing Effectively](#guidelines-for-writing-effectively)
+- [How to Adopt](#how-to-adopt)
+- [How to Contribute](#how-to-contribute)
+- [About](#about)
+- [License](#license)
 
-## Rules for writing effectively (ONE = MOR framework)
+<br>
+
+## Guidelines for Writing Effectively
 
 
 The **ONE = MOR framework** was created to help software developers communicate better in writing. Below you'll find us going through the framework, explaining how we see it applied to software contributions. We believe that even if you take the time to read this just once, it will greatly help you write better contributions.
@@ -84,7 +92,7 @@ The **ONE = MOR framework** was created to help software developers communicate 
 - Read once for grammar
 
 
-## How to adopt
+## How to Adopt
 
 #### Add a section to your CONTRIBUTING.md
 
@@ -120,7 +128,7 @@ If you're the owner of an open-source project or organisation, you can add your 
 <a href="https://github.com/the-whole-fruit/manifesto/blob/master/SIGNATORIES.md"><img alt="Sign Manifesto" src="https://img.shields.io/badge/manifesto-sign%20now-brightgreen"></a>
 
 
-## How to contribute
+## How to Contribute
 
 See our `CONTRIBUTING.md`, of course.
 
