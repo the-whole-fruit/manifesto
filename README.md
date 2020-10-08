@@ -48,7 +48,7 @@ We believe that even reading this section _just once_ will result in better cont
     - The readers of your PR are software developers, just like you. What compels them to read your PR? If you’re contributing to an open source project, they’ve probably put in hundreds or thousands of hours of their life into a project that makes no money, or very little money. Most likely they are busy, have full-time jobs, spouses, children, pets. But, just like you, they have a passion for building stuff, and they love that their work actually helps people. If you're contributing to your company’s project, then the developer who reviews the PR has to do it because it’s her job. Either way, you want to make their life as easy as possible and the task as pleasant as possible. Don’t treat them like they don’t have a choice but to review your code. Because, _just like you_, they have _a passion for building stuff_, and they love that _their work actually helps people_. That's why they started this. That's why they keep doing it.
 - **Mission** - determine your objectives
     - To get your PR approved. From the first try, if possible.
-    - To lend a helping hand to someone who’s already helped you, by creating and maintaining this project.
+    - To lend a helping hand to someone who’s already helped you, by creating and maintaining a project.
 - **Message** - find what will make your readers act for your mission
     - In order for the maintainers to merge your PR, they’ll need to:
         - Easily understand what problem you’re fixing.
@@ -58,8 +58,6 @@ We believe that even reading this section _just once_ will result in better cont
         - Your code contributes something important.
         - Your code is easy to read and well-commented.
         - Your code works and is well-tested.
-        - PR title that defines the problem being fixed.
-        - PR description that explaines how the problem is being fixed.
 - **Medium** - select the best communication channel to use
     - For small contributions, go ahead and create a PR.
     - For bigger contributions, it’s better to create an Issue first, to make sure the problem you discovered is worth working on; don’t start working, before you know your work will be merged.
@@ -88,16 +86,16 @@ We believe that even reading this section _just once_ will result in better cont
 
 ## How to Adopt
 
-#### (I) Add a section to your CONTRIBUTING.md
+#### (I) Add a section about The Whole Fruit Manifesto and Guidelines for Writing Effectively to your CONTRIBUTING.md
 
-One small block of text to add to your contributing.md file, one giant leap in software quality for your project.
+Remember: One small block of text to add to your CONTRIBUTING.md file, one giant leap in software quality for your project.
 
-As you know, this file is used by Github, Bitbucket and Gitlab to show your users a few guidelines before they submit a PR. We think it's a perfect place to introduce your contributors to the way you'd like your community to write. If you adhere to The Whole Fruit Manifesto, please consider copy-pasting or linking its guidelines to help your contributors produce better code. Here's [an example `CONTRIBUTING.md` file](https://github.com/the-whole-fruit/manifesto/blob/master/.github/CONTRIBUTING.md), that we think is a good start.
+Github, Bitbucket and Gitlab use this file to show developers a few guidelines before they submit a PR. We think it's a perfect place to also talk about the guidelines your community follows when communicating in writing. If you adhere to The Whole Fruit Manifesto feel free to copy or link directly to its Writing Guideline. If you don’t have any idea how to structure your `CONTRIBUTING.md` file [here is a template](https://github.com/the-whole-fruit/manifesto/blob/master/.github/CONTRIBUTING.md) that we think is a good start.
 
 
 #### (II) Include a shield in your project
 
-Shields (aka badges) usually let people know about your project status, standards and permissions. We think it's a perfect place to also communicate that your project intends to abide by The Whole Fruit Manifesto. That people should read its text and follow its guidelines. 
+Shields (aka badges) usually let people know about your project status, standards and permissions. It's also a perfect way to communicate that your project abides by The Whole Fruit Manifesto standard.
 
 You can add the shield below at the top of your README.md using one of the code options under it. 
 
@@ -116,8 +114,8 @@ Alternatively, you can use [shields.io](https://shields.io) to make a shield tha
 #### (III) Sign the manifesto
 
 If you're the owner of an open-source project or organisation, you can add your name to our SIGNATORIES.md file. This will:
-- help you _publicly_ commit to follow The Whole Fruit Manifesto and its guidelines in your software projects;
-- help other people understand the importance of our cause - that _better writing makes for better software_;
+- help you _publicly_ commit to follow The Whole Fruit Manifesto standard in your software projects;
+- help other people understand the importance of our cause: _better writing makes for better software_;
 
 <a href="https://github.com/the-whole-fruit/manifesto/blob/master/SIGNATORIES.md"><img alt="Sign Manifesto" src="https://img.shields.io/badge/manifesto-sign%20now-brightgreen"></a>
 
@@ -131,7 +129,7 @@ See our [`CONTRIBUTING.md`](https://github.com/the-whole-fruit/manifesto/blob/ma
 
 ## About
 
-**Why?** This project is the result of many years of added frustration. Time and time again we've seen _great_ ideas, projects & developers who, due to poor communication, either put a ceiling on their success or turn a wonderful experience into a frustrating one. We've grown so frustrated with this, that we felt compelled to do something about it. We felt the urge to actually promote _the importance of good writing_ in web development.
+**Why?** This project is the result of many years of added frustration. Time and time again we've seen _great_ ideas, projects and developers who, due to poor communication, either put a ceiling on their success or turn a wonderful experience into a frustrating one. We've grown so frustrated with this, that we felt compelled to do something about it. We felt the urge to actually promote _the importance of good writing_ in web development.
 
 **Who are we?** A [software developer](https://tabacitu.ro) and [a copywriter](https://ro.linkedin.com/in/andreiiordache). This is an unlikely alliance, we know. But it's probably the best mix for starting a project like this.
 
