@@ -75,9 +75,33 @@ We believe that even reading this section _just once_ will result in better cont
 
 ### Step 2. NOTE everything down following the blueprint (the result is your _unpolished text_)
 - Only clear Subjects
+    - [ ] My sentences start with their subject (X did Y);
+    - [ ] One sentence, one subject;
+    - [ ] The subject is a person or a concrete object (_When the users click the Moderate button they get a 404 Error._ is better than _Moderation throws 404_);
+    - [ ] The subject should be clear (if unclear, properly explain the subject and its role);
 - Only clear Actions
+    - [ ] The action is concrete and easy to understand.;
+    - [ ] The action comes right after the subject (X did Y);
+    - [ ] I've used verbs instead of subjects whenever possible (_Authentication throws error 500 when token is missing_ is more difficult to understand than _User tries to authenticate without a token, but gets a 500 error_); 
 - Only the right Style
+    - [ ] I've used the same words I would have if I were speaking them;
+    - [ ] I've used simple words, that anybody can understand;
+    - [ ] I've avoided abstract words. I've avoided buzzwords.
+    - [ ] I've written about what can be experienced, felt.
+    - [ ] I was direct and concreete.
+    - [ ] I've used examples, metaphors or comparisons where complicated.
+    - [ ] I've avoided passive voice.
+    - [ ] I've used the right words for the amount of certainty I have about the subject at hand.
+    - [ ] I've avoided jargon.
+    - [ ] I've used bullet points instead of enumerations.
+    - [ ] I've highlighted/underlined/boldened the key ideas or words.
+    - [ ] I've explained the acronyms/abbreviations if any.
+    - [ ] The text is easy to read and has a good flow.
 - Only the right Length
+    - [ ] I've kept the message as short as possible, without missing crucial information.
+    - [ ] At most, my sentences have 20-25 words each.
+    - [ ] I've broken long sentences into short ones - one idea per sentence.
+    - [ ] I've alternated long sentences with short ones.
 
 ### Step 3. EDIT it to make sure it does what it needs to do (the result is your _final text_)
 - Read once for sense and structure
