@@ -77,7 +77,7 @@ We believe that even reading this section _just once_ will result in better cont
     - [ ] One sentence, one subject;
     - [ ] The subject is a person or a concrete object;
     - [ ] The subject is clear (if unclear, properly explain the subject and its role);
-    - For example: Rather than saying _"Moderation throws 404"_, you should say something like _"When the users click the Moderate button they get a 404 Error."_ - when the subject is a person, it reads like a story - which is good;
+    - For example: Rather than saying _"404 error on moderation"_, you should say something like _"When the users click the Moderate button they get a 404 Error."_ - when the subject is a person, it reads like a story - which is good; When the subject is the first thing in the sentence, you set a clear _context_.
 - Only clear Actions
     - [ ] The action is concrete and easy to understand;
     - [ ] The action comes right after the subject (X did Y);
