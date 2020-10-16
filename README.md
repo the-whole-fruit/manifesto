@@ -33,7 +33,7 @@ We believe that **good code can be made bad by improper use of words around it**
 
 **Our mission is to spread the good word. Will you join us?**
 
-<a href="#how-to-adopt"><img alt="Adopt the Manifesto" src="https://img.shields.io/badge/-adopt%20the%20manifesto-brightgreen"></a>
+<a href="#how-to-adopt"><img alt="Adopt the Manifesto" src="https://img.shields.io/badge/-Adopt%20the%20Manifesto-brightgreen"></a>
 
 [Guidelines for Writing Effectively](#guidelines-for-writing-effectively) | [How to Adopt](#how-to-adopt) | [How to Contribute](#how-to-contribute) | [About](#about) | [License](#license)
 
