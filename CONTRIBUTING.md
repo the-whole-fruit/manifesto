@@ -11,7 +11,7 @@ If you want to contribute but do not know where to start, this list provides a s
 - improve our templates - they can get better with the experience of more people;
 - review and give your opinion on [existing issues](https://github.com/the-whole-fruit/manifesto/issues);
 - review and give your opinion on [existing pull requests](https://github.com/the-whole-fruit/manifesto/pulls);
-- sign the manifesto;
+- [adopt the manifesto](https://github.com/the-whole-fruit/manifesto#how-to-adopt);
 - spread the word;
 
 ## How to do those things
@@ -24,7 +24,7 @@ If you want to contribute but do not know where to start, this list provides a s
 
 ### Rules for writing effectively
 
-This project stands by [The Whole Fruit Manifesto](https://github.com/the-whole-fruit/manifesto). We believe that “writing good code” is not only about “writing good code”. It’s also about the words around it. That’s why, to make sure your contribution is well received, we ask you to [read and apply the ONE=MOR guidelines](https://github.com/the-whole-fruit/manifesto) when writing comment blocks, PR titles, PR descriptions, and in general, when writing to our community.
+This project stands by [The Whole Fruit Manifesto](https://github.com/the-whole-fruit/manifesto). We believe that “_writing good code_” is not only about “_writing good code_”. It’s also about the words around it. That’s why, to make sure your contribution is well received, we ask you to [read and apply the ONE=MOR framework and guidelines](https://github.com/the-whole-fruit/manifesto) when writing comment blocks, PR titles, PR descriptions, and in general, when writing to our community.
 
 
 Thank you for contributing!
