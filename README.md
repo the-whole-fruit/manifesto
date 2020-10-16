@@ -17,17 +17,21 @@
 
 # The Whole Fruit Manifesto 
 
-We believe that “writing good code” is not only about “writing good code”. Sure, the code is the kernel. But around it, or about it, the software developer has to write a lot of words. 
+An unspeakable evil plagues the world of software developers. It’s present in private software projects and in oh so many open source contributions. It prevents brilliant engineers making a name for themselves. And the coolest projects from taking off. That evil is poor communication in writing. 
+
+Because **“_writing good code_” is not only about “_writing good code_”**.
+
+Sure, the code is the kernel. But around it, or about it, the software developer has to write a lot of words:
 
 - Technical Documentation
 - Code Comments
 - Commits, Pull Requests
 - Tasks
-- Emails
+- Emails and many more
 
-We believe that good code can be made bad by improper use of words around it. Therefore, a software developer who strives to deliver good code needs to also communicate efficiently in writing. 
+We believe that **good code can be made bad by improper use of words around it**. Therefore, a software developer who strives to deliver good code should also strive to communicate effectively in writing. Such is the whole fruit of a developer’s labor, kernel and all.
 
-Such is the whole fruit of a developer’s labor, kernel and all.
+**Our mission is to spread the good word. Will you join us?**
 
 <a href="#how-to-adopt"><img alt="Adopt the Manifesto" src="https://img.shields.io/badge/-adopt%20the%20manifesto-brightgreen"></a>
 
