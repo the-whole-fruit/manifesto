@@ -1,20 +1,30 @@
 # Signatories
 
-We hereby declare that we recognize the importance of  effective communication, and commit to doing better. We pledge to improve the way we write inside and around our projects. As part of this process, we will:
+We hereby declare that we recognize the importance of  effective communication, and commit to doing better. We pledge to improve the way we write _inside_ and _around_ our projects. As part of this process, we will:
 - follow [The Whole Fruit Guidelines](https://github.com/the-whole-fruit/manifesto#rules-for-writing-effectively-one--mor-framework) as much as possible;
-- copy-paste or link to the [The Whole Fruit Manifesto](https://github.com/the-whole-fruit/manifesto), so our contributors learn about the efficient writing;
+- copy-paste or link to the [The Whole Fruit Manifesto](https://github.com/the-whole-fruit/manifesto), to motivate and teach our contributors to write better;
 - use the provided [markdown templates](https://github.com/the-whole-fruit/manifesto/tree/master/.github) (as-is or modified) to ensure our contributors communicate better too;
-- be open and look for other ways of improving the way we communicate;
-- help promote the manifesto with [a link](https://github.com/the-whole-fruit/manifesto) or [a shield](https://github.com/the-whole-fruit/manifesto/blob/master/CONTRIBUTING.md#include-a-shield-in-your-project);
+- admit that you're never _done_ learning how to communicate, and be open to improvements;
+- help promote the manifesto with [a link](https://github.com/the-whole-fruit/manifesto), [a shield](https://github.com/the-whole-fruit/manifesto/blob/master/CONTRIBUTING.md#include-a-shield-in-your-project), a star on Github or all of them;
 
 
 Signed,
 
 
-Date | Project / Organisation | Link
+## Projects & Organisations
+
+Date | Project / Organisation | About
 ------------ | ------------- | -------------
-2020-09-15 | Backpack for Laravel | https://backpackforlaravel.com
-2020-09-15 | UPDIVISION | https://updivision.com
+2020-09-15 | [Backpack for Laravel](https://backpackforlaravel.com) | The most popular admin panel for Laravel-PHP
+2020-09-15 | [UPDIVISION](https://updivision.com) | Custom web & mobile apps: 10 years of oursourcing excellence
+
+
+## People
+
+Date | Name | About
+------------ | ------------- | -------------
+2020-09-15 | [Cristian Tabacitu](https://www.linkedin.com/in/tabacitu/) | Indie Hacker, leads [:DigitallyHappy](https://digitallyhappy.com)
+2020-09-15 | [Andrei Iordache](https://www.linkedin.com/in/andreiiordache/) | CEO of [UPDIVISION](https://updivision.com), copywriter by trade and occupation
 
 
 -----
