@@ -155,7 +155,7 @@ If you're the owner of an open-source project or organisation, you can [add your
 
 ### Step 4. Spread the word
 
-Share your commitment to abide by The Whole Fruit Manifesto on Twitter, Facebook, Reddit, LinkedIn, your blog... whatever platform you use to communicate. It will help you commit to it, help your project stand out and help us reach more people.
+Share your commitment to abide by The Whole Fruit Manifesto on Twitter, Facebook, Reddit, LinkedIn, your blog... whatever platform you use to communicate. It will help you commit to it, help your project stand out and help us reach more people. Needless to say, you should also star this project on Github.
 
 <br>
 
