@@ -119,6 +119,8 @@ We believe that even reading this section _just once_ will result in better cont
 
 <br>
 
+<div style="text-align: center" align="center"><img align="center" src="https://user-images.githubusercontent.com/71145983/96907969-a7f55f80-14a4-11eb-984e-f2b54fff65ee.jpg"></div>
+
 ## How to Adopt
 
 ### Step 1. Add a The Whole Fruit Manifesto & Guidelines to your `CONTRIBUTING.md`
