@@ -51,7 +51,10 @@ We believe that even reading this section _just once_ will result in better cont
 
 ### Step 1. ORGANIZE the information to fit your goals and readers (the result is your _blueprint_)
 - **Mob** - know your readers
-    - The readers of your PR are software developers, just like you. What compels them to read your PR? If you’re contributing to an open source project, they’ve probably put in hundreds or thousands of hours of their life into a project that makes no money, or very little money. Most likely they are busy, have full-time jobs, spouses, children, pets. But, just like you, they have a passion for building stuff, and they love that their work actually helps people. If you're contributing to your company’s project, then the developer who reviews the PR has to do it because it’s her job. Either way, you want to make their life as easy as possible and the task as pleasant as possible. Don’t treat them like they don’t have a choice but to review your code. Because, _just like you_, they have _a passion for building stuff_, and they love that _their work actually helps people_. That's why they started this. That's why they keep doing it.
+    - The readers of your PR are software developers, just like you. What compels them to read your PR? 
+        - If you’re contributing to an open source project, they’ve probably put in hundreds or thousands of hours of their life into a project that makes no money, or very little money. Most likely they are busy, have full-time jobs, spouses, children, pets. But, just like you, they have a passion for building stuff, and they love that their work actually helps people. 
+        - If you're contributing to your company’s project, then the developer who reviews the PR has to do it because it’s her job. 
+        - Either way, you want to make their life as easy as possible and the task as pleasant as possible. Don’t treat them like they don’t have a choice but to review your code. Because, _just like you_, they have _a passion for building stuff_, and they love that _their work actually helps people_. That's why they started this. That's why they keep doing it.
 - **Mission** - determine your objectives
     - To get your PR approved. From the first try, if possible.
     - To lend a helping hand to someone who’s already helped you, by creating and maintaining a project.
@@ -118,38 +121,42 @@ We believe that even reading this section _just once_ will result in better cont
 
 ## How to Adopt
 
-#### (I) Add a section about The Whole Fruit Manifesto and Guidelines for Writing Effectively to your CONTRIBUTING.md
+### Step 1. Add a The Whole Fruit Manifesto & Guidelines to your `CONTRIBUTING.md`
 
-Remember: One small block of text to add to your CONTRIBUTING.md file, one giant leap in software quality for your project.
+> One small block of text to add to your CONTRIBUTING.md file, one giant leap in software quality for your project.
 
 Github, Bitbucket and Gitlab use this file to show developers a few guidelines before they submit a PR. We think it's a perfect place to also talk about the guidelines your community follows when communicating in writing. If you adhere to The Whole Fruit Manifesto feel free to copy or link directly to its Writing Guideline. If you don’t have any idea how to structure your `CONTRIBUTING.md` file [here is a template](https://github.com/the-whole-fruit/manifesto/blob/master/.github/CONTRIBUTING.md) that we think is a good start.
 
 
-#### (II) Include a shield in your project
+### Step 2. Include a shield in your project
 
-Shields (aka badges) usually let people know about your project status, standards and permissions. It's also a perfect way to communicate that your project abides by The Whole Fruit Manifesto standard.
-
-You can add the shield below at the top of your README.md using one of the code options under it. 
+Shields (aka badges) usually let people know about your project status, standards and permissions. So it's a perfect way to communicate that your project abides by The Whole Fruit Manifesto. You can easily add our shield to your `README.md`: 
 
 [![We believe writing good code is not only about writing good code. It’s also about the words around it. We aims to deliver both: code and words.](https://img.shields.io/badge/writing%20standard-the%20whole%20fruit-brightgreen)](https://github.com/the-whole-fruit/manifesto)
 
 ```js
+// use this at the top of your README.md file
+
 [![We believe writing good code is not only about writing good code. It’s also about the words around it. We aims to deliver both: code and words.](https://img.shields.io/badge/writing%20standard-the%20whole%20fruit-brightgreen)](https://github.com/the-whole-fruit/manifesto)
 
-// or
+// or this
 
 [<img src="https://img.shields.io/badge/writing%20standard-the%20whole%20fruit-brightgreen" title="We believe writing good code is not only about writing good code. It’s also about the words around it. We aims to deliver both: code and words.">](https://github.com/the-whole-fruit/manifesto)
 ```
 
-Alternatively, you can use [shields.io](https://shields.io) to make a shield that's a better fit for your project. Make sure you point it to `https://github.com/the-whole-fruit/manifesto`
+Alternatively, you can use [shields.io](https://shields.io) to create a shield that's a better fit for your project. Make sure you point it to `https://github.com/the-whole-fruit/manifesto`
 
-#### (III) Sign the manifesto
+### Step 3. Sign the manifesto
 
 If you're the owner of an open-source project or organisation, you can add your name to our SIGNATORIES.md file. This will:
 - help you _publicly_ commit to follow The Whole Fruit Manifesto standard in your software projects;
 - help other people understand the importance of our cause: _better writing makes for better software_;
 
 <a href="https://github.com/the-whole-fruit/manifesto/blob/master/SIGNATORIES.md"><img alt="Sign Manifesto" src="https://img.shields.io/badge/manifesto-sign%20now-brightgreen"></a>
+
+### Step 4. Spread the word
+
+Share your commitment to abide by The Whole Fruit Manifesto on Twitter, Facebook, Reddit, LinkedIn, your blog... whatever platform you use to communicate. It will help you commit to it, help your project stand out and help us reach more people.
 
 <br>
 
