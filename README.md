@@ -150,11 +150,9 @@ Alternatively, you can use [shields.io](https://shields.io) to create a shield t
 
 ### Step 3. Sign the manifesto
 
-If you're the owner of an open-source project or organisation, you can add your name to our SIGNATORIES.md file. This will:
+If you're the owner of an open-source project or organisation, you can [add your name to our `SIGNATORIES.md` file](https://github.com/the-whole-fruit/manifesto/blob/master/SIGNATORIES.md). This will:
 - help you _publicly_ commit to follow The Whole Fruit Manifesto standard in your software projects;
 - help other people understand the importance of our cause: _better writing makes for better software_;
-
-<a href="https://github.com/the-whole-fruit/manifesto/blob/master/SIGNATORIES.md"><img alt="Sign Manifesto" src="https://img.shields.io/badge/manifesto-sign%20now-brightgreen"></a>
 
 ### Step 4. Spread the word
 
