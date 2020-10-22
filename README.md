@@ -47,7 +47,7 @@ We believe that even reading this section _just once_ will result in better cont
 
 
 
-![Use the ONE=MOR Framework for Effective Writing](https://user-images.githubusercontent.com/1032474/96905266-3ac2d980-1466-11eb-81ec-27b83b8b6bbc.jpg)
+![Use the ONE=MOR Framework for Effective Writing](https://user-images.githubusercontent.com/71145983/96907938-9c099d80-14a4-11eb-83a3-26e2260d908e.jpg)
 
 ### Step 1. ORGANIZE the information to fit your goals and readers (the result is your _blueprint_)
 - **Mob** - know your readers
