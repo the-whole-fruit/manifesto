@@ -46,8 +46,7 @@ The **ONE = MOR framework** was created to help software developers communicate 
 We believe that even reading this section _just once_ will result in better contributions and better communication.
 
 
-
-![Use the ONE=MOR Framework for Effective Writing](https://user-images.githubusercontent.com/71145983/96907938-9c099d80-14a4-11eb-83a3-26e2260d908e.jpg)
+<p style="margin-top: 15px; margin-bottom: 15px;"><img src="https://user-images.githubusercontent.com/1032474/96910500-96dd2c00-146d-11eb-9e21-d33d2c95c814.jpg" title="Use the ONE=MOR Framework for Effective Writing"></p>
 
 ### Step 1. ORGANIZE the information to fit your goals and readers (the result is your _blueprint_)
 - **Mob** - know your readers
