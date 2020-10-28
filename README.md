@@ -155,7 +155,9 @@ If you're the owner of an open-source project or organisation, you can [add your
 
 ### Step 4. Spread the word
 
-Share your commitment to abide by The Whole Fruit Manifesto on Twitter, Facebook, Reddit, LinkedIn, your blog... whatever platform you use to communicate. It will help you commit to it, help your project stand out and help us reach more people. Needless to say, you should also star this project on Github.
+We bet you know a private or open source project that makes you cry everytime you read something they wrote. We all do! And now you can do something about it. Suggest that they check out The Whole Fruit Manifesto. It will do a lot of good to them, to you and to the world wide web.
+
+And, of course, don't forget to give us a star on GitHub and share.
 
 <br>
 
