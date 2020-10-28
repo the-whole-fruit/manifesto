@@ -12,7 +12,8 @@ If you want to contribute but do not know where to start, this list provides a s
 - review and give your opinion on [existing issues](https://github.com/the-whole-fruit/manifesto/issues);
 - review and give your opinion on [existing pull requests](https://github.com/the-whole-fruit/manifesto/pulls);
 - [adopt the manifesto](https://github.com/the-whole-fruit/manifesto#how-to-adopt);
-- spread the word;
+- save a project - if you know a project that will benefit a lot by communicating better in writing tell them about The Whole Fruit Manifesto; it will do a lot of good to them, to you and to the world wide web;
+- spread the word - don't forget to give us a star on GitHub and share;
 
 ## How to do those things
 
