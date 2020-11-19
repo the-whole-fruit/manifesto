@@ -153,6 +153,8 @@ If you're the owner of an open-source project or organisation, you can [add your
 - help you _publicly_ commit to follow The Whole Fruit Manifesto standard in your software projects;
 - help other people understand the importance of our cause: _better writing makes for better software_;
 
+<a href="https://github.com/the-whole-fruit/manifesto/blob/master/SIGNATORIES.md"><img alt="Sign the Manifesto" src="https://img.shields.io/badge/-Sign%20the%20Manifesto-brightgreen"></a>
+
 ### Step 4. Spread the word, save a project
 
 We bet you know a private or open source project that makes you cry everytime you read something they wrote. We all do! And now you can do something about it. Suggest that they check out The Whole Fruit Manifesto. It will do a lot of good to them, to you and to the world wide web.
