@@ -142,7 +142,7 @@ Shields (aka badges) usually let people know about your project status, standard
 
 // or this
 
-[<img src="https://img.shields.io/badge/writing%20standard-the%20whole%20fruit-brightgreen" title="We believe writing good code is not only about writing good code. It’s also about the words around it. We aims to deliver both: code and words.">](https://github.com/the-whole-fruit/manifesto)
+<a href="https://github.com/the-whole-fruit/manifesto"><img src="https://img.shields.io/badge/writing%20standard-the%20whole%20fruit-brightgreen" title="We believe writing good code is not only about writing good code. It’s also about the words around it. We aims to deliver both: code and words."></a>
 ```
 
 Alternatively, you can use [shields.io](https://shields.io) to create a shield that's a better fit for your project. Make sure you point it to `https://github.com/the-whole-fruit/manifesto`
