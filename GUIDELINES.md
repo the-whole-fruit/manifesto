@@ -5,7 +5,7 @@ The **ONE = MOR framework** was created to help software developers communicate 
 We believe that even reading this section _just once_ will result in better contributions and better communication.
 
 
-<p style="margin-top: 15px; margin-bottom: 15px;"><img src="https://static.thewholefruit.org/TLDR.jpg" title="Use the ONE=MOR Framework for Effective Writing"></p>
+<p style="margin-top: 15px; margin-bottom: 15px;"><img src="https://static.thewholefruit.org/tldr.jpg" title="Use the ONE=MOR Framework for Effective Writing"></p>
 
 ## Step 1. ORGANIZE the information to fit your goals and readers (the result is your _blueprint_)
 - **Mob** - know your readers
