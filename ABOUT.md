@@ -1,0 +1,9 @@
+# About
+
+**Why?** We’ve been in the software industry for more than a decade. And we've seen too many developers who, due to poor communication, either put a ceiling on their success or turn a wonderful piece of code into unusable trash. We've grown so frustrated with this, that we felt compelled to do something about it. We felt the urge to speak up and promote _the importance of good writing_ as part of a developer’s work. And we hope you’ll help us spread the word.
+
+**What's the plan?** To start a movement, baby! To make a dent in the developer’s world. To hammer in the idea that _words matter_ and that _it's not difficult_ to get decent at writing (definitely not more difficult than learning a new programming language). We want to see fewer and fewer projects that are _hurt_ by their communication. And long-term, we want to completely eliminate the stereotype that developers are bad at communication. In fact, we believe it could become the exact opposite. And we’re committed to build the tools to make that happen.
+
+**Who are we?** A [software developer](https://tabacitu.ro) and [a copywriter](https://ro.linkedin.com/in/andreiiordache). This is an unlikely alliance, we know. But it's probably the best mix for starting a project like this.
+
+**How can I learn more about writing effectively?** We are [writing a book](https://writingfordevs.com) for software developers. So, if a brief `contributing.md` section can get you from bad to decent, think what a book can do for you. While we work on the book, we’re going to share a lot of useful titbits, so [follow us on Twitter](https://twitter.com/writingfordevs) and be sure to [subscribe to our newsletter](https://writingfordevs.com/#download). Also, we would love to hear your ideas - just drop us a line at [contract@writingfordevs.com](mailto:contact@writingfordevs.com)
