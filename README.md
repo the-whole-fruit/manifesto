@@ -35,7 +35,7 @@ We believe that **good code can be made bad by improper use of words around it**
 
 **Our mission is to spread the good word. Will you join us?**
 
-<a href="https://github.com/the-whole-fruit/manifesto/blob/master/ADOPTING.md"><img alt="Adopt the Manifesto" src="https://img.shields.io/badge/-Adopt%20the%20Manifesto-brightgreen"></a><a href="https://github.com/the-whole-fruit/manifesto/blob/master/SIGNATORIES.md"><img alt="See Signatories" src="https://img.shields.io/badge/-View%20Signatories-lightgrey"></a>
+<a href="https://github.com/the-whole-fruit/manifesto/blob/master/ADOPTING.md"><img alt="Adopt the Manifesto" src="https://img.shields.io/badge/-Adopt%20the%20Manifesto-brightgreen"></a> <a href="https://github.com/the-whole-fruit/manifesto/blob/master/SIGNATORIES.md"><img alt="See Signatories" src="https://img.shields.io/badge/-View%20Signatories-lightgrey"></a>
 
 
-[ONE=MOR](https://github.com/the-whole-fruit/manifesto/blob/master/GUIDELINES.md) | [How to Adopt](https://github.com/the-whole-fruit/manifesto/blob/master/ADOPTING.md) | [How to Contribute](https://github.com/the-whole-fruit/manifesto/blob/master/CONTRIBUTING.md) | [About](https://github.com/the-whole-fruit/manifesto/blob/master/ABOUT.md) | [License](https://github.com/the-whole-fruit/manifesto/blob/master/LICENSE.md)
+[ONE=MOR](https://github.com/the-whole-fruit/manifesto/blob/master/GUIDELINES.md) | [Templates](https://github.com/the-whole-fruit/manifesto/blob/master/.github) | [How to Adopt](https://github.com/the-whole-fruit/manifesto/blob/master/ADOPTING.md) | [How to Contribute](https://github.com/the-whole-fruit/manifesto/blob/master/CONTRIBUTING.md) | [About](https://github.com/the-whole-fruit/manifesto/blob/master/ABOUT.md) | [License](https://github.com/the-whole-fruit/manifesto/blob/master/LICENSE.md)
