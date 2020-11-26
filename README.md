@@ -16,7 +16,6 @@
 </p>
 
 <div style="text-align: center" align="center"><img align="center" style="width: 30px!important;" src="https://static.thewholefruit.org/logo.png"></div>
-<h1 style="text-align:center">The Whole Fruit Manifesto</h1>
 
 # The Whole Fruit Manifesto
 
