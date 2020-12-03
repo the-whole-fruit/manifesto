@@ -1,11 +1,11 @@
 # Signatories
 
 We hereby declare that we recognize the importance of  effective communication, and commit to doing better. We pledge to improve the way we write _inside_ and _around_ our projects. As part of this process, we will:
-- follow [The Whole Fruit Guidelines](https://github.com/the-whole-fruit/manifesto#rules-for-writing-effectively-one--mor-framework) as much as possible;
+- follow [The Whole Fruit Guidelines](https://github.com/the-whole-fruit/manifesto/blob/master/goodies/guidelines.md) as much as possible;
 - copy-paste or link to the [The Whole Fruit Manifesto](https://github.com/the-whole-fruit/manifesto), to motivate and teach our contributors to write better;
-- use the provided [markdown templates](https://github.com/the-whole-fruit/manifesto/tree/master/.github) (as-is or modified) to ensure our contributors communicate better too;
+- use the provided [markdown templates](https://github.com/the-whole-fruit/manifesto/tree/master/goodies/templates) (as-is or modified) to ensure our contributors communicate better too;
 - admit that you're never _done_ learning how to communicate, and be open to improvements;
-- help promote the manifesto with [a link](https://github.com/the-whole-fruit/manifesto), [a shield](https://github.com/the-whole-fruit/manifesto/blob/master/CONTRIBUTING.md#include-a-shield-in-your-project), a star on Github or all of them;
+- help promote the manifesto with [a link](https://github.com/the-whole-fruit/manifesto), [a shield](https://github.com/the-whole-fruit/manifesto/blob/master/.github/contributing.md#include-a-shield-in-your-project), a star on Github or all of them;
 
 
 Signed,
