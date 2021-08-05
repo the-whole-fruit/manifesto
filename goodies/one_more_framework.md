@@ -59,11 +59,11 @@ We believe that even reading this section _just once_ will result in better cont
     - [ ] Avoid abstract words. Avoid buzzwords.
     - [ ] Write about what can be experienced, felt.
     - [ ] Be direct and concrete.
-    - [ ] Used examples, metaphors or comparisons where complicated.
-    - [ ] Avoided passive voice.
-    - [ ] Used the right words for the amount of certainty you have about the subject at hand.
+    - [ ] Use examples, metaphors or comparisons where complicated.
+    - [ ] Avoid passive voice.
+    - [ ] Use the right words for the amount of certainty you have about the subject at hand.
     - [ ] Avoid jargon.
-    - [ ] Used bullet points instead of enumerations.
+    - [ ] Use bullet points instead of enumerations.
     - [ ] Highlight/underline/bolden the key ideas or words.
     - [ ] Explain the acronyms/abbreviations if any.
     - [ ] Make sure the text is easy to read and has a good flow.
