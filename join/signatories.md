@@ -26,7 +26,7 @@ Date | Project / Organisation | About
 
 Date | Name | About
 ------------ | ------------- | -------------
-2020-09-15 | [Cristian Tabacitu](https://www.linkedin.com/in/tabacitu/) | Indie Hacker, leads [:DigitallyHappy](https://digitallyhappy.com)
+2020-09-15 | [Cristian Tabacitu](https://www.linkedin.com/in/tabacitu/) | Indie Maker, leads [:DigitallyHappy](https://digitallyhappy.com)
 2020-09-15 | [Andrei Iordache](https://www.linkedin.com/in/andreiiordache/) | CEO of [UPDIVISION](https://updivision.com), copywriter by trade and occupation
 
 
