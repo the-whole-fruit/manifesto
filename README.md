@@ -15,7 +15,7 @@
         <img alt="Twitter URL" src="https://img.shields.io/twitter/url?url=http%3A%2F%2Ftwitter.com%2Fwritingfordevs"></a>
 </p>
 
-<div style="text-align: center" align="center"><img align="center" style="width: 30px!important;" src="https://user-images.githubusercontent.com/71145983/101069309-7a6efc00-35a2-11eb-8298-3bf21a35291a.png"></div><br>
+<div style="text-align: center" align="center"><img align="center" style="width: 1080px!important;" src="https://user-images.githubusercontent.com/71145983/101069309-7a6efc00-35a2-11eb-8298-3bf21a35291a.png"></div><br>
 
 An unspeakable evil plagues the world of software developers. It’s present in private software projects and in oh so many open source contributions. It prevents brilliant engineers making a name for themselves. And the coolest projects from taking off. That evil is poor communication in writing. 
 
